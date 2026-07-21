@@ -1,0 +1,51 @@
+#one{
+    color:green;
+    background-color:antiquewhite ;
+    text-align: center;
+    border-color: white;
+    border-width: 5px;
+    border-style: double;
+    padding: 10px;
+    margin: 10px;
+   
+}
+#one:hover{
+    transform: scale(1.1);
+    transition: 5s;
+}
+.two{
+    color:blueviolet;
+    
+}
+.three{
+     color: blue;
+     /* text-align: center; */
+}
+img:hover {
+    transform: scale(1.5);
+    transition: 5s;
+}
+div{
+    background-color: lightgreen;
+    width: 500px;
+    border: 2px solid green;
+    padding: 15px;
+    border-radius: 10px;
+    /* margin-left: 500px; */
+}
+input[type="submit"]{
+    background-color: lightskyblue;
+    animation-duration: 4s;
+}
+
+button{
+    background-color:orange;
+}
+footer
+{
+    font-size: 0.4cm;
+}
+*{
+    background-color: ghostwhite;
+    margin-left: 5px;
+}
